@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "575225137173",
+    "firebase_url": "https://drogueria-322da-default-rtdb.firebaseio.com",
+    "project_id": "drogueria-322da",
+    "storage_bucket": "drogueria-322da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575225137173:android:3fcc7d440b965b39e2e61c",
+        "android_client_info": {
+          "package_name": "com.example.drogueria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDhtX3XEcq6SxSpCvKi5WiDMhupTg9q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
